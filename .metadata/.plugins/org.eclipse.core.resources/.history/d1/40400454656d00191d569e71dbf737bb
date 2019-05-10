@@ -1,0 +1,14 @@
+package com.GRID;
+
+public class NewTours_LogInTest {
+	
+	@Parameters("Browser")
+	@Test
+	public void logIn()
+	{
+		
+	}
+	
+	
+
+}

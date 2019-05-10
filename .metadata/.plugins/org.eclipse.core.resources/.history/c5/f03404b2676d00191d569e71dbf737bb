@@ -1,0 +1,57 @@
+package com.GRID;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import org.openqa.selenium.Platform;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+public class NewTours_LogInTest {
+	
+	@Parameters("Browser")
+	@Test
+	public void logIn(String browser) throws MalformedURLException
+	{
+		
+		System.out.println(" The name of the browser is : "+browser);
+		
+		
+	//	DesiredCapabilities - is used to specify which Browser and Platform(OS) should be considered to test 
+		
+		// Node's info is set to DesiredCapabilities class
+		
+		
+		DesiredCapabilities cap = null;
+		
+		if(browser.equalsIgnoreCase("firefox"))
+		{
+			cap = DesiredCapabilities.firefox();
+			cap.setBrowserName("firefox");
+			cap.setPlatform(Platform.WINDOWS);
+		}
+		else
+			if(browser.equalsIgnoreCase("chrome"))
+			{
+				cap = DesiredCapabilities.chrome();
+				cap.setBrowserName("chrome");
+				cap.setPlatform(Platform.WINDOWS);
+			}
+		
+		//RemoteWebDriver - it is used to connect to remote Hub Server and communicate to Nodes
+		
+		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://192.168.1.22:4444/wd/hub"),cap);
+		
+		String url="http://newtours.demoaut.com";
+		
+		driver.get(url);
+		
+		
+		
+	}
+	
+	
+
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NewTours Application]">
+  <test name="LogIn(failed)">
+    <classes>
+      <class name="com.POM.NewTours_HomePageTesting">
+        <methods>
+          <include name="setUp"/>
+          <include name="homePage"/>
+        </methods>
+      </class> <!-- com.POM.NewTours_HomePageTesting -->
+    </classes>
+  </test> <!-- LogIn(failed) -->
+</suite> <!-- Failed suite [NewTours Application] -->

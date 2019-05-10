@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NewTours Application" duration-ms="31478" started-at="2019-04-27T06:16:42Z" finished-at="2019-04-27T06:17:14Z">
+    <groups>
+    </groups>
+    <test name="LogIn" duration-ms="31478" started-at="2019-04-27T06:16:42Z" finished-at="2019-04-27T06:17:14Z">
+      <class name="com.POM.NewTours_HomePageTesting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.POM.NewTours_HomePageTesting@62ee68d8]" name="setUp" is-config="true" duration-ms="12555" started-at="2019-04-27T11:46:42Z" finished-at="2019-04-27T11:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.POM.NewTours_HomePageTesting@62ee68d8]" name="homePage" duration-ms="18886" started-at="2019-04-27T11:46:55Z" finished-at="2019-04-27T11:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+      </class> <!-- com.POM.NewTours_HomePageTesting -->
+    </test> <!-- LogIn -->
+  </suite> <!-- NewTours Application -->
+</testng-results>

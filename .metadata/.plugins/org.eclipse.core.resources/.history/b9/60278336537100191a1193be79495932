@@ -1,0 +1,22 @@
+package com.NewTours;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.BeforeTest;
+
+public class NewTours_LogInTest {
+	
+	WebDriver driver = null;
+	String url = "http://newtours.demoaut.com";
+	
+	@BeforeTest
+	public void setUp()
+	{
+		driver = new FirefoxDriver();
+		driver.get(url);
+		
+		driver.manage().window().maximize();
+		driver.
+	}
+
+}

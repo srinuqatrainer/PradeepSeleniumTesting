@@ -1,0 +1,18 @@
+2019-05-08 11:31:31,935 - NewTours_LogInTest -INFO - FireFox Browser Launched Successfully 
+2019-05-08 11:31:34,041 - NewTours_LogInTest -INFO -  NewTours Application lunched Successfully
+2019-05-08 11:31:34,645 - NewTours_LogInTest -INFO -  Entered UserName 
+2019-05-08 11:31:34,750 - NewTours_LogInTest -INFO -  Entered Password 
+2019-05-08 11:32:08,515 - NewTours_LogInTest -INFO -  Clicked on LogIn Button 
+2019-05-08 11:32:08,515 - NewTours_LogInTest -INFO -  The expected Title after Successfull LogIn is : Find
+2019-05-08 11:32:08,528 - NewTours_LogInTest -INFO - The actual Title after LogIN Is : Find a Flight: Mercury Tours:
+2019-05-08 11:32:08,529 - NewTours_LogInTest -INFO - LogIn Successfull - PASS
+2019-05-08 11:32:09,258 - NewTours_LogInTest -INFO - NewTours Application Closed successfully
+2019-05-08 11:34:33,961 - NewTours_LogInTest -INFO - FireFox Browser Launched Successfully 
+2019-05-08 11:34:36,383 - NewTours_LogInTest -INFO -  NewTours Application lunched Successfully
+2019-05-08 11:34:37,023 - NewTours_LogInTest -INFO -  Entered UserName 
+2019-05-08 11:34:38,294 - NewTours_LogInTest -INFO -  Entered Password 
+2019-05-08 11:34:57,180 - NewTours_LogInTest -INFO -  Clicked on LogIn Button 
+2019-05-08 11:34:57,181 - NewTours_LogInTest -INFO -  The expected Title after Successfull LogIn is : Find
+2019-05-08 11:34:57,200 - NewTours_LogInTest -INFO - The actual Title after LogIN Is : Find a Flight: Mercury Tours:
+2019-05-08 11:34:57,200 - NewTours_LogInTest -INFO - LogIn Successfull - PASS
+2019-05-08 11:34:57,946 - NewTours_LogInTest -INFO - NewTours Application Closed successfully

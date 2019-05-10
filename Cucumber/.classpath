@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas1/Desktop/PradeepSelenium/Cucumber/library/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
